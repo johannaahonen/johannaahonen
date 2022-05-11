@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @johannaahonen
-- 👀 I’m interested in WordPress theme development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @johannaahonen
+- I’m interested in WordPress theme development and plugin development
+- I’m currently learning React and Gutenberg block developing
+- You can contact me in Linkedin: https://www.linkedin.com/in/johannaahonen/
 
 <!---
 johannaahonen/johannaahonen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
